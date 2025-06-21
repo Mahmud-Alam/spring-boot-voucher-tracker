@@ -1,0 +1,54 @@
+### Employees Table Data
+INSERT INTO employees (emp_id, emp_name) VALUES ('E001', 'Alice');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E002', 'Bob');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E003', 'Charlie');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E004', 'Diana');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E005', 'Eve');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E006', 'Frank');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E007', 'Grace');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E008', 'Henry');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E009', 'Ivy');
+INSERT INTO employees (emp_id, emp_name) VALUES ('E010', 'Jack');
+
+
+### EmployeeVouchers Table Data
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1001', 'E001');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1002', 'E002');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1003', 'E002');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1004', 'E003');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1005', 'E003');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1006', 'E003');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1007', 'E003');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1008', 'E003');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1009', 'E003');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1010', 'E004');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1011', 'E004');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1012', 'E004');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1013', 'E004');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1014', 'E005');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1015', 'E005');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1016', 'E005');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1017', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1018', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1019', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1020', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1021', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1022', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1023', 'E006');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1024', 'E007');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1025', 'E007');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1026', 'E007');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1027', 'E007');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1028', 'E007');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1029', 'E008');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1030', 'E008');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1031', 'E008');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1032', 'E008');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1033', 'E008');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1034', 'E008');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1035', 'E009');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1036', 'E009');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1037', 'E009');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1038', 'E010');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1039', 'E010');
+INSERT INTO employeevouchers (voucher_id, emp_id) VALUES ('VCHR1040', 'E010');
