@@ -9,8 +9,8 @@ const EditVoucherModal = ({ voucher, employees, onClose, onUpdate }) => {
   };
 
   return (
-    <div className="fixed inset-0 bg-black bg-opacity-40 flex items-center justify-center">
-      <div className="bg-white p-6 rounded w-96">
+    <div className="fixed inset-0 backdrop-blur-xs flex items-center justify-center">
+      <div className="bg-gray-200 p-6 rounded w-96 border border-gray-400">
         <h3 className="text-xl font-bold mb-4">Edit Voucher</h3>
 
         <label className="block mb-2">Employee</label>
@@ -36,7 +36,7 @@ const EditVoucherModal = ({ voucher, employees, onClose, onUpdate }) => {
         <div className="flex justify-end gap-2">
           <button
             onClick={handleSubmit}
-            className="bg-green-500 text-white px-4 py-2 rounded"
+            className="bg-blue-500 text-white px-4 py-2 rounded"
           >
             Save
           </button>
