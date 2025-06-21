@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/vouchers")
-@CrossOrigin(origins = "http://localhost:5173") // Vite dev server port
+@CrossOrigin(origins = "http://localhost:5173/") // Vite dev server port
 public class EmployeeVoucherController {
 
     @Autowired
